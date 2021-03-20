@@ -1,1 +1,3 @@
 ### I'm William, a Data Engineer@xxxxxx xxxxxx Bank. Currently working on xxxxxx.
+
+-  Familiar with Python, Apache Airflow, Spark, Kafka, Hadoop (CDH) ...
